@@ -9,14 +9,7 @@ const userSchema = new Schema(
       unique: true,
     },
     phone: Number,
-<<<<<<< HEAD
     password: { type: String, required: true }
-=======
-    password: {
-      type: String,
-      require: true,
-    },
->>>>>>> b1304edb26d8831749d15873966c3191c9545b84
   },
   {
     timestamps: true,

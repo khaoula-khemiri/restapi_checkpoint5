@@ -13,11 +13,8 @@
     "bcrypt": "^5.1.0",
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
-<<<<<<< HEAD
     "crypto-js": "^4.1.1",
-=======
     "crypto": "^1.0.1",
->>>>>>> b1304edb26d8831749d15873966c3191c9545b84
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "express-validator": "^6.14.2",
